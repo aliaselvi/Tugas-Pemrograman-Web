@@ -1,0 +1,45 @@
+body {
+    /* Set the background color to a light pink shade */
+    background-color: #ffe6e6;
+  }
+  
+  h1 {
+    /* Center the heading text */
+    text-align: center;
+    /* Add a pink text color */
+    color: #ff69b4;
+  }
+  
+  table {
+    /* Center the table */
+    margin: 0 auto;
+    /* Add a pink background color to the table */
+    background-color: #ffc0cb;
+    /* Add a pink border */
+    border: 1px solid #ff69b4;
+    /* Add some padding to the table cells */
+    padding: 10px;
+  }
+  
+  td {
+    /* Center the text in each table cell */
+    text-align: center;
+    /* Add some padding to each table cell */
+    padding: 10px;
+    /* Remove the background color from the table cells */
+    background-color: transparent;
+  }
+  
+  a {
+    /* Add a pink text color to the links */
+    color: #ff69b4;
+    /* Remove the underline from the links */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    /* Add a hover effect to the links */
+    background-color: #ffc5c5;
+    /* Change the text color to a darker pink shade on hover */
+    color: #ff33cc;
+  }
